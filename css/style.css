@@ -1,0 +1,44 @@
+
+
+h2 {
+    padding: 100px;
+    margin-left: 100px
+}
+
+h1 {
+    padding:20px;
+    text-align: center;
+}
+
+
+#about{
+    width: 100%;
+    height:auto;
+    border-radius: 50%;
+    margin-top:20px;
+}
+
+.main-section {
+    margin: 100px;
+
+}
+
+.work {
+    padding: 10px;
+}
+
+img {
+    width:100%;
+    height:auto;
+}
+
+
+footer {
+    background-color: #F8F9FA;
+    height: 100px;
+    text-align: center;
+    padding:20px;
+    margin:auto;
+    width:100%;
+}
+
